@@ -1,0 +1,11 @@
+{
+  "best_model": "naive_bayes",
+  "best_score": 0.3333333333333333,
+  "timestamp": "20250702_153616",
+  "all_scores": {
+    "naive_bayes": 0.3333333333333333,
+    "svm": 0.3333333333333333,
+    "logistic_regression": 0.3333333333333333,
+    "random_forest": 0.3333333333333333
+  }
+}
