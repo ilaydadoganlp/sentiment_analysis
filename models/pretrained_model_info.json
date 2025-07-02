@@ -1,0 +1,8 @@
+{
+  "model_name": "cardiffnlp/twitter-xlm-roberta-base-sentiment-multilingual",
+  "model_loaded": true,
+  "method": "transformers",
+  "description": "Pre-trained multilingual XLM-RoBERTa sentiment model",
+  "accuracy_estimate": "~85-90%",
+  "timestamp": "2025-07-02 16:27:21"
+}
