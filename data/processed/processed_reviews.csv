@@ -1,0 +1,7 @@
+text,sentiment,text_processed
+"Bu film gerçekten harika, çok beğendim!",positive,film gerçekten harika beğendim
+"Berbat bir film, zamanımı boşa harcadım.",negative,berbat film zamanımı boşa harcadım
+"Film ortalama, ne iyi ne kötü.",neutral,film ortalama iyi kötü
+Oyuncular çok iyiydi ama senaryo zayıftı.,neutral,oyuncular iyiydi senaryo zayıftı
+"Muhteşem bir yapım, herkese tavsiye ederim!",positive,muhteşem yapım herkese tavsiye ederim
+"Çok sıkıcıydı, yarıda bıraktım.",negative,sıkıcıydı yarıda bıraktım
