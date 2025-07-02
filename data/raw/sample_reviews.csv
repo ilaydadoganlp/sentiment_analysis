@@ -1,7 +1,31 @@
 text,sentiment
 "Bu film gerçekten harika, çok beğendim!",positive
+"Muhteşem bir yapım, herkese tavsiye ederim!",positive
+"Harika oyunculuk, çok etkilendim!",positive
+"Mükemmel senaryo, baştan sona keyifle izledim!",positive
+"Bu kadar güzel bir film görmemiştim, süper!",positive
+"Enfes bir yapım, tekrar tekrar izlerim!",positive
+"Oyuncular çok başarılı, hikaye muhteşem!",positive
+"İnanılmaz güzel bir film, kalitesi çok yüksek!",positive
+"Gerçekten çok iyi, beklentilerimi aştı!",positive
+"Harika bir deneyim, çok memnun kaldım!",positive
 "Berbat bir film, zamanımı boşa harcadım.",negative
+"Çok sıkıcıydı, yarıda bıraktım.",negative
+"Hiç beğenmedim, çok kötü bir yapım.",negative
+"Korkunç bir film, parama yazık oldu.",negative
+Bu kadar kötü bir şey izlememiştim.,negative
+"Feci kötü, hiç kimseye tavsiye etmem.",negative
+"Senaryo çok zayıf, oyunculuk berbat.",negative
+"Vakit kaybı, çok kalitesiz bir yapım.",negative
+"Hiç hoşuma gitmedi, çok başarısız.",negative
+"Kötü bir deneyim, pişman oldum.",negative
 "Film ortalama, ne iyi ne kötü.",neutral
 Oyuncular çok iyiydi ama senaryo zayıftı.,neutral
-"Muhteşem bir yapım, herkese tavsiye ederim!",positive
-"Çok sıkıcıydı, yarıda bıraktım.",negative
+Fena değil ama çok da iyi sayılmaz.,neutral
+"İdare eder, beklenti yapmadan izlenebilir.",neutral
+"Orta düzey bir yapım, standart seviyede.",neutral
+"Ne çok kötü ne çok iyi, normal bir film.",neutral
+Bazı sahneler güzel ama genel olarak sıradan.,neutral
+"Ortalama bir hikaye, vakit geçirir.",neutral
+İzlenebilir ama tekrar izlemem galiba.,neutral
+"Eh işte, ortalama seviyede bir yapım.",neutral

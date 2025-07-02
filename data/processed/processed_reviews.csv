@@ -1,7 +1,31 @@
 text,sentiment,text_processed
 "Bu film gerçekten harika, çok beğendim!",positive,film gerçekten harika beğendim
+"Muhteşem bir yapım, herkese tavsiye ederim!",positive,muhteşem yapım herkese tavsiye ederim
+"Harika oyunculuk, çok etkilendim!",positive,harika oyunculuk etkilendim
+"Mükemmel senaryo, baştan sona keyifle izledim!",positive,mükemmel senaryo baştan sona keyifle izledim
+"Bu kadar güzel bir film görmemiştim, süper!",positive,kadar güzel film görmemiştim süper
+"Enfes bir yapım, tekrar tekrar izlerim!",positive,enfes yapım tekrar tekrar izlerim
+"Oyuncular çok başarılı, hikaye muhteşem!",positive,oyuncular başarılı hikaye muhteşem
+"İnanılmaz güzel bir film, kalitesi çok yüksek!",positive,i nanılmaz güzel film kalitesi yüksek
+"Gerçekten çok iyi, beklentilerimi aştı!",positive,gerçekten iyi beklentilerimi aştı
+"Harika bir deneyim, çok memnun kaldım!",positive,harika deneyim memnun kaldım
 "Berbat bir film, zamanımı boşa harcadım.",negative,berbat film zamanımı boşa harcadım
+"Çok sıkıcıydı, yarıda bıraktım.",negative,sıkıcıydı yarıda bıraktım
+"Hiç beğenmedim, çok kötü bir yapım.",negative,beğenmedim kötü yapım
+"Korkunç bir film, parama yazık oldu.",negative,korkunç film parama yazık oldu
+Bu kadar kötü bir şey izlememiştim.,negative,kadar kötü izlememiştim
+"Feci kötü, hiç kimseye tavsiye etmem.",negative,feci kötü kimseye tavsiye etmem
+"Senaryo çok zayıf, oyunculuk berbat.",negative,senaryo zayıf oyunculuk berbat
+"Vakit kaybı, çok kalitesiz bir yapım.",negative,vakit kaybı kalitesiz yapım
+"Hiç hoşuma gitmedi, çok başarısız.",negative,hoşuma gitmedi başarısız
+"Kötü bir deneyim, pişman oldum.",negative,kötü deneyim pişman oldum
 "Film ortalama, ne iyi ne kötü.",neutral,film ortalama iyi kötü
 Oyuncular çok iyiydi ama senaryo zayıftı.,neutral,oyuncular iyiydi senaryo zayıftı
-"Muhteşem bir yapım, herkese tavsiye ederim!",positive,muhteşem yapım herkese tavsiye ederim
-"Çok sıkıcıydı, yarıda bıraktım.",negative,sıkıcıydı yarıda bıraktım
+Fena değil ama çok da iyi sayılmaz.,neutral,fena değil iyi sayılmaz
+"İdare eder, beklenti yapmadan izlenebilir.",neutral,i dare eder beklenti yapmadan izlenebilir
+"Orta düzey bir yapım, standart seviyede.",neutral,orta düzey yapım standart seviyede
+"Ne çok kötü ne çok iyi, normal bir film.",neutral,kötü iyi normal film
+Bazı sahneler güzel ama genel olarak sıradan.,neutral,sahneler güzel genel olarak sıradan
+"Ortalama bir hikaye, vakit geçirir.",neutral,ortalama hikaye vakit geçirir
+İzlenebilir ama tekrar izlemem galiba.,neutral,i zlenebilir tekrar izlemem galiba
+"Eh işte, ortalama seviyede bir yapım.",neutral,eh işte ortalama seviyede yapım
